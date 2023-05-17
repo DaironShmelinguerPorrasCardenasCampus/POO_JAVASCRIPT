@@ -1,0 +1,53 @@
+TEMARIO 
+1) PILARES DE POO
+2) OBJETOS A PROFUNDIDAD
+3) SOLID
+
+QUÉ ES UN OBJETO => SON AQUELLOS QUE TIENEN PROPIEDADES(ATRIBUTOS)- COMPORTAMIENTOS (METODOS)
+SIEMPRE TIENEN UN NOMBRE - SUSTANTIVOS
+
+EJEMPLO : OBJ USER - FÍSICO  OBJ-SESSION - NO ES ALGO PALMABLE - TIENE COMPORTAMIENTOS Y ATRIBUTOS
+            TARJETA  - CUENTA DE AHORRorder
+------------------------------------------------------------------------------------------
+1. ATRIBUTOS => SON LAS PROPIEDADES EJEMPLO : NOMBRE, TAMAÑO, FROMA, ESTADO -- VARIABLES
+2. MÉTODOS => SON LAS OPETRACIONES QUE SE REALIZAN 
+
+EJEMPLO : PERRO ------------------------------------- 
+ATRIBUTOS : + NOMBRE      METODOS : + LADRAR
+            + COLOR                 + COMER      
+            + RAZA                  + DORMIR
+            + ALTURA                + CORRER
+
+ATRIBUTOS : + NOMBRE      METODOS : +()SERADOPTADO
+            + COLOR                      
+            + RAZA                  
+            + ALTURA                
+-------------------------------------------------------------------------------------------------------
+CLASES  EN POO
+=> ES EL MODELO POR EL CUAL LOS OBJETOS SE CONSTRUYEN  - ME PERMITEN GENERAR MÁS OBJETOS
+
+MODELOS = CLASES 
+
+ABSTRACIÓN => EXTRAER LOS DATOS DE UN OBJETO PARA GENERAR UN MOLDE 
+
+-------------------------------------------------------------------------------------------------------
+MODULARIDAD
+=> La modularidad va de la mano con el Diseño Modular, este consiste en dividir nuestro sistema en 
+partes pequeñas que funcionen de manera independiente.
+
+LA MODULARIDAD NOS PERMITE : 
+=> Reutilizar código
+=> Evitar Colapsos
+=> Mantenible
+=> Legibilidad
+=> Resolución Rápida de Problemas
+
+NOTA: LAS CLASES DEBEN IR EN ARCHIVOS SEPARADOS PARA EVITAR CÓDIGO DESORDENAD ASÍ GENERO MODULARIDAD EN ELLAS
+
+------------------------------------------------------------------------------------------------------------
+DIAGRAMAS UML 
+
+EJERCICIO 
+
+
+
